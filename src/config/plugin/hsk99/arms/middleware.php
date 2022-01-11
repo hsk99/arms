@@ -2,6 +2,6 @@
 
 return [
     '' => [
-        Hsk99\Arms\Arms::class
+        Hsk99\WebmanArms\Arms::class
     ]
 ];
