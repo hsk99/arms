@@ -1,6 +1,6 @@
 <?php
 
-namespace Hsk99\Arms;
+namespace Hsk99\WebmanArms;
 
 class Install
 {
